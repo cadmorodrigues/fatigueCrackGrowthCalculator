@@ -27,3 +27,15 @@ The application allows users to:
 The interface was developed using **Tkinter**, providing a simple and intuitive experience without requiring advanced programming knowledge.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+
+## 📚 Related Works
+
+This software is part of the research presented in the following publication:
+
+- **Software development to calculate the linear elastic fracture mechanics stress intensity factor with Python**  
+  Published in *Proceedings of the 9th International Conference on Fracture, Fatigue and Wear* – [2022, p. 3-11]
